@@ -1,0 +1,30 @@
+# Object files
+*.o
+*.pyc
+*.mod
+
+# Libraries
+*.lib
+*.a
+.DS_Store
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+camb
+
+#Misc.
+*~
+.project
+spectra/*
+opacity/*
+python/*
+Variable_evolution/*
+camb.dSYM/*
